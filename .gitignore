@@ -1,0 +1,6 @@
+**/*.jar
+abc.jar
+target/*
+anyfolder/*
+**.ddl
+**.exe
